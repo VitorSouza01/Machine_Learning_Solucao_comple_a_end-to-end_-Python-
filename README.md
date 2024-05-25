@@ -4,7 +4,7 @@
 ## 📚 Descrição do Projeto
 O código apresentando é referente ao curso "Machine Learning | Solução completa end-to-end (Python)" da instituição Data Viking pela plataforma da Udemy.
 <br>Nesse curso é apresentando uma solução criando uma API com aquisição de dados e implementação do modelo de Machine Learning em ambiente de teste.
-<br>As biblioteca utilizadas foram: Pandas, Numpy, Matplotlib, Seaborn, Flask, Requests, Sklearn, Yellowbrick etc.
+<br>As biblioteca utilizadas foram: Pandas, Numpy, Matplotlib, Seaborn, Flask, Requests, Sklearn, Yellowbrick.
 
 
 Link do curso: https://www.udemy.com/share/1078NQ3@jeDlOxDifGubV7yYLJ4g0BlVFSxzLoY66fn8EPQbhfiVGgh9KIs5f5j9YnI43q2pwg==/
